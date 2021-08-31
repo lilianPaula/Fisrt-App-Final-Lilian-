@@ -1,0 +1,36 @@
+<!--CRIAR UM LOCAL PRA LISTA-->
+<%- contentFor( 'body') %>
+<div class="jumbotron text-center" style="color: #09376F ;">
+    <h1>Lista de Usuários Cadastrados</h1>
+    <p> clique no botão "lista" para visualizar a lista</p>
+</div>
+<% let linkEnvia="/list/list"; %>
+<div class="row">
+
+    <div class="col-lg-12 adiciona">
+        <a type="button" class="btn btn-primary" onclick="ListaUpdate('/list/list')">
+            <i class="fas fa-list"></i>
+                 Lista
+        </a>
+    </div> 
+
+
+
+    <div class="table-responsive-xl" style="color: #09376F ;">     
+        <table class="table table-hover bg-light" id="lista" >
+            <thead class="thead"style="color: #09376F ;">
+            <tr>
+                <th>Nome</th>
+                <th>Email</th>
+                <th>Endereço</th>
+                <th>Idade</th>
+                <th>Altura</th>
+                <th>Vota</th>
+            </tr>
+            </thead>
+            <tbody class="Lista"><!--DEU CERTO PRA MIM FAMILIA-->
+            </tbody>
+        </table>
+    </div>
+
+</div>
