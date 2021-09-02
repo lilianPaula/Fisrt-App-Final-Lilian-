@@ -6,7 +6,7 @@ Software criado para discutir os conceitos de criação de uma aplicação Web u
 Lilian Paula Lima de maria
 
 ## Colaboradores
-uma galera, muita gente MESMO. agradecimentos especiais aos Professores, @Vaneska,@Matheus Del e @Daniel Amorim.
+Foi criado com a ajuda dos seguintes colaboradores: Wellington Wagner Ferreira Sarmento, Daniel Amorim, Vaneska Sousa, e Mattheus Del Vianple.
 
 "Se cheguei até aqui foi porque me apoiei no ombro dos gigantes."-Isaac Newton
 ## Licença
